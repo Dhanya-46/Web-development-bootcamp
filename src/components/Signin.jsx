@@ -30,10 +30,10 @@ function Signin() {
             <h1>Sign-In</h1>
             <img src={taskimg} width='400px' alt="" />
             <main>
-            <button onClick={handleClick} className='bnt'><span>
+            <button onClick={handleClick} className='bnt'>
                 <img src= {google} alt="" className='google' />
                 Continue with Google
-                </span>
+              
             </button>
             </main>
         </div>

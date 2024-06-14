@@ -3,7 +3,7 @@ import profpic from "../assets/profpic.jpg"
 import taskimg from "../assets/taskimg.png"
 import { useNavigate } from 'react-router-dom'
 import { auth , db ,provider} from './firebase'
-import { addDoc, collection, deleteDoc, doc, getDoc, getDocs, updateDoc  } from 'firebase/firestore'
+import { addDoc, collection, deleteDoc, doc, getDoc, getDocs, updateDoc  } from "firebase/firestore"
 
 function Content() {
   const [Tasks,setTasks] = useState([])
