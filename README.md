@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc] uses [SWC] for Fast Refresh
 
 
-# Day 7: Web Development Bootcamp by LiveWires
+# Day 7: Web Development Bootcamp 
 
 Welcome to Day 7 of the Web Development Bootcamp organized by LiveWires! Today's session focused on integrating Firebase Firestore with a React application and deploying the website to Cloudflare. Below is a detailed summary of what we learned:
 
